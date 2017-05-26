@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -x -m baidu/hujian02/webpack -c "cd baidu/hujian02/webpack && mkdir output && cp BCLOUD ./output/" -u ./ //此处的BCLOUD为示例文件，定制模块的BCLOUD文件请参考：相关链接
