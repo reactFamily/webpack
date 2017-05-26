@@ -1,0 +1,13 @@
+{
+  "additionalProperties": false,
+  "definitions": {
+
+  },
+  "properties": {
+
+  },
+  "required": [
+    "entry"
+  ],
+  "type": "object"
+}
